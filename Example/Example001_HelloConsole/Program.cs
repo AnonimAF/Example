@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// первая работа
+Console.WriteLine(" 2 Hello, World!");
